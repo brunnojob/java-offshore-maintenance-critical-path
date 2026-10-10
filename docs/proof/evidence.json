@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repository": "brunnojob/java-offshore-maintenance-critical-path",
-  "source_commit": "e6b7b73979dc291df84151cfb2f2f27fc322a41a",
-  "generated_at": "2026-10-10T02:36:32.132308+00:00",
-  "run_url": "https://github.com/brunnojob/java-offshore-maintenance-critical-path/actions/runs/38017581554",
+  "source_commit": "56cd882611777f7ae0f5cb0676a8705fb3fd42f7",
+  "generated_at": "2026-10-10T02:44:50.105109+00:00",
+  "run_url": "https://github.com/brunnojob/java-offshore-maintenance-critical-path/actions/runs/38018075459",
   "inputs_sha256": {
     ".proof/scenarios.json": "d6617e991000eb1f6742aaf552682f8dd83bbe79b2cf16fae7e7c9f0d4272533",
     "examples/input.txt": "35c604290d1bc745af9001d00e05c55364950140942de4cd8155aea04c737e31"
@@ -23,7 +23,7 @@
       "exit": 0,
       "expected_exit": 0,
       "passed": true,
-      "seconds": 3.962,
+      "seconds": 2.609,
       "output": "tests passed\nisolate,start=0.00,finish=1.00,float=0.00\nelectrical,start=1.00,finish=3.00,float=4.00\ninspect,start=1.00,finish=3.00,float=0.00\nreplace,start=3.00,finish=7.00,float=0.00\ncommission,start=7.00,finish=8.00,float=0.00\nduration=8.00\n",
       "output_sha256": "1716ae9283c75c1306c1bbebdb25cd4f056f4ccac2cf551fd116cf3417b2ab81"
     },
