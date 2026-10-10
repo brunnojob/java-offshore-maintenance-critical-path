@@ -1,0 +1,5 @@
+isolate,1,-
+inspect,2,isolate
+replace,4,inspect
+electrical,2,isolate
+commission,1,replace|electrical
