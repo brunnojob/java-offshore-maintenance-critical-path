@@ -1,5 +1,7 @@
 # java-offshore-maintenance-critical-path
 
+[View execution evidence](https://brunnojob.github.io/devstart-lab/proofs/java-offshore-maintenance-critical-path/)
+
 Calculate dependency-safe maintenance order, earliest completion and task float for shutdown planning.
 
 ```sh
